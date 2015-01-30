@@ -19,8 +19,6 @@ a3 c3 d2
 
 import sys
 
-ln = {'a', 1, 'b', 2}
-
 test_cases = open(sys.argv[1], 'r')
 for test in test_cases:
 
